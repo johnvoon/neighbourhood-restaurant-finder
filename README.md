@@ -1,18 +1,15 @@
 # Neighbourhood Restaurant Finder
-------
 
 A front-end project I did from Udacity's excellent JavaScript Design Patterns course for learning and practising JavaScript ES5.
 
 <strong>Check it out at: https://neighbourhood-restaurants.herokuapp.com/</strong>
 
 ## Features:
-------
 
 - Single-page application for finding restaurants in the neighbourhood.
 - Map markers reveal restaurant information and images when clicked.
  
 ## Implementation
-------
 
 | Technology | Description |
 |------|-------------|
