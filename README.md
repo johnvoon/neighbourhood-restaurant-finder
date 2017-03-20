@@ -17,7 +17,7 @@ A front-end project from Udacity's excellent JavaScript Design Patterns course f
 | Technology | Description |
 |------|-------------|
 | [<b>Express</b>](https://expressjs.com/) | Web application framework |
-| [<b>KnockoutJS</b>](https://knockoutjs.com/) |  JavaScript framework |
+| [<b>KnockoutJS</b>](https://knockoutjs.com/) |  JavaScript front-end framework |
 | [<b>PhotoSwipe</b>](https://github.com/RealScout/redux-infinite-scroll) | Infinite scrolling |
 | [<b>Webpack 2</b>](https://webpack.github.io/) | Module bundling |
 | [<b>Google Maps APIs</b>](https://developers.google.com/maps/) | Map display and markers |
