@@ -1,9 +1,9 @@
 # Neighbourhood Restaurant Finder
 ------
 
-A front-end project from Udacity's excellent JavaScript Design Patterns course for learning and practising JavaScript ES5.
+A front-end project I did from Udacity's excellent JavaScript Design Patterns course for learning and practising JavaScript ES5.
 
-<strong>Check it out at: TBA</strong>
+<strong>Check it out at: https://neighbourhood-restaurants.herokuapp.com/</strong>
 
 ## Features:
 ------
@@ -22,7 +22,3 @@ A front-end project from Udacity's excellent JavaScript Design Patterns course f
 | [<b>Webpack 2</b>](https://webpack.github.io/) | Module bundling |
 | [<b>Google Maps APIs</b>](https://developers.google.com/maps/) | Map display and markers |
 | [<b>Google Places APIs</b>](https://developers.google.com/places/) | Places search |
-
-
-
-
